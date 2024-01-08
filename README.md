@@ -37,7 +37,7 @@ Check out my latest articles on [Medium](https://medium.com/@yourusername) where
 ## 📫 Let's Connect
 
 - LinkedIn: [Felipe de Oliveira Souza]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/felipe-de-oliveira-souza-a558a814b/))
-- Portfolio: [Conheça meus projetos](https://portifolio.foliveira.dev.br/)
+- Portfolio: [Know my projects](https://portifolio.foliveira.dev.br/)
 
 ## 🌱 I’m currently learning
 
